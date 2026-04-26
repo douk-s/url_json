@@ -3,7 +3,7 @@
   "latest_version_name": "1.0.2",
   "update_url": "https://abc/app.apk", 
   "config_urls": [
-    "https://raw.githubusercontent.com/用户名/仓库/main/version.json",
+    "https://raw.githubusercontent.com/douk-s/url_json/447d60b34dd665c15bbfe06a971df5e19e004573/version.json",
     "https://gitee.com/用户名/仓库/raw/main/version.json",
     "https://你的域名.com/config/version.json"
   ],
